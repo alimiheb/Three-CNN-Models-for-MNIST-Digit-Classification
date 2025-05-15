@@ -121,4 +121,4 @@ The models were trained on the MNIST dataset (60,000 training images, 10,000 tes
 
 ### Visual Comparison
 
-![Model Performance Comparison](images/comparison.png)
+![Model Performance Comparison](images/comparaison.png)
