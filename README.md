@@ -6,8 +6,8 @@ This project implements and compares three different Convolutional Neural Networ
 
 The project explores different CNN architectures for digit classification:
 1. Simple CNN
-2. LeNet-5 Architecture
-3. Custom Deep CNN
+2. Medium CNN
+3. Large CNN
 
 ## Dataset
 
@@ -101,7 +101,7 @@ The models were trained on the MNIST dataset (60,000 training images, 10,000 tes
 1. All three models achieved excellent accuracy (>98.9%) on the test set
 2. The Large CNN achieved the highest accuracy but required more training time
 3. The Simple CNN provides a good balance of accuracy and efficiency
-4. LeNet-5, despite being a classic architecture, still performs remarkably well
+4. Medium CNN , despite being a classic architecture, still performs remarkably well
 
 ### Training Process
 
